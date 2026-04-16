@@ -29,4 +29,4 @@ Based on an empirical evaluation using a held-out test set of **1,146 emails**, 
 ---
 **Course:** MAS291 - Probability and Statistics  
 **Instructor:** Pham Thi Kim Thuy  
-**Institution:** FPT University, Vietnam
+**Institution:** FPT University HCMC, Vietnam
